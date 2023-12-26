@@ -1,0 +1,14 @@
+D:\HOMEWORK\Module1\bin\Debug\net7.0\Module1.exe
+D:\HOMEWORK\Module1\bin\Debug\net7.0\Module1.deps.json
+D:\HOMEWORK\Module1\bin\Debug\net7.0\Module1.runtimeconfig.json
+D:\HOMEWORK\Module1\bin\Debug\net7.0\Module1.dll
+D:\HOMEWORK\Module1\bin\Debug\net7.0\Module1.pdb
+D:\HOMEWORK\Module1\obj\Debug\net7.0\Module1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOMEWORK\Module1\obj\Debug\net7.0\Module1.AssemblyInfoInputs.cache
+D:\HOMEWORK\Module1\obj\Debug\net7.0\Module1.AssemblyInfo.cs
+D:\HOMEWORK\Module1\obj\Debug\net7.0\Module1.csproj.CoreCompileInputs.cache
+D:\HOMEWORK\Module1\obj\Debug\net7.0\Module1.dll
+D:\HOMEWORK\Module1\obj\Debug\net7.0\refint\Module1.dll
+D:\HOMEWORK\Module1\obj\Debug\net7.0\Module1.pdb
+D:\HOMEWORK\Module1\obj\Debug\net7.0\Module1.genruntimeconfig.cache
+D:\HOMEWORK\Module1\obj\Debug\net7.0\ref\Module1.dll
