@@ -22,7 +22,7 @@
 
  //Bai 4
 
-CombineStrings(firstLetter, c, lastLetter);
+Console.WriteLine(CombineStrings(firstLetter, c, lastLetter));
     
     static string CombineStrings(string str1, string str2, string str3)
     {
