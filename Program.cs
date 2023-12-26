@@ -22,9 +22,13 @@
 
  //Bai 4
 
-Console.WriteLine(CombineStrings(firstLetter, c, lastLetter));
+// Console.WriteLine(CombineStrings(firstLetter, c, lastLetter));
     
-    static string CombineStrings(string str1, string str2, string str3)
-    {
-        return string.Concat(str1, str2, str3);
-    }
+//     static string CombineStrings(string str1, string str2, string str3)
+//     {
+//         return string.Concat(str1, str2, str3);
+//     }
+
+
+string Greeting = (firstLetter + c + lastLetter);
+Console.WriteLine(Greeting);
