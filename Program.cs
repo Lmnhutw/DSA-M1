@@ -22,5 +22,9 @@
 
  //Bai 4
 
-   string word = string.Concat(firstLetter,c , lastLetter);
-   Console.WriteLine(word);
+CombineStrings(firstLetter, c, lastLetter);
+    
+    static string CombineStrings(string str1, string str2, string str3)
+    {
+        return string.Concat(str1, str2, str3);
+    }
